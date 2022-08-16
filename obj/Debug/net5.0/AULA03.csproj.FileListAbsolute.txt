@@ -1,0 +1,16 @@
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\AULA03.exe
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\AULA03.deps.json
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\AULA03.runtimeconfig.json
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\AULA03.runtimeconfig.dev.json
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\AULA03.dll
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\ref\AULA03.dll
+C:\Users\09250695900\Desktop\AULA03\bin\Debug\net5.0\AULA03.pdb
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.csproj.AssemblyReference.cache
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.AssemblyInfoInputs.cache
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.AssemblyInfo.cs
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.csproj.CoreCompileInputs.cache
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.dll
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\ref\AULA03.dll
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.pdb
+C:\Users\09250695900\Desktop\AULA03\obj\Debug\net5.0\AULA03.genruntimeconfig.cache
